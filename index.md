@@ -1,10 +1,16 @@
 ---
-title: Sadhun
 ---
 
-# Sadhun
-
-Indie developer.
-
 ## Apps
-- [Matchy Colors](./matchy-colors/)
+
+### Matchy Colors
+A simple color-matching game.
+
+<a class="btn" href="/matchy-colors/support/">Support</a>
+<a class="btn" href="/matchy-colors/privacy/">Privacy Policy</a>
+
+---
+
+## Contact
+Email: **your-email@example.com**  
+GitHub: [sadhu1706](https://github.com/sadhu1706)
